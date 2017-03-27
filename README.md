@@ -18,7 +18,7 @@ c.	Experimenting with Kubernetes Features
 
     ii.	Reconciliation
     
-    iii. Rolling Updates
+    iii.Rolling Updates
     
 d.	Deploying a Pod and Service from a public repository 
 
@@ -30,11 +30,10 @@ g.	Create and deploy into Kubernetes Namspaces
 
 # Lab Goals:
 
+•	To write and run a basic hello-world program on Docker
+
 •	To get a primarily hands-on experience with Docker, Kubernetes and Kubernetes’ main features on Azure.
 
 •	To set up a Kubernetes deployment in your subscription for future customer-demo purposes. 
-
-•	To write and run a basic hello-world program on Docker
-
 
 ![ScreenShot](https://github.com/Azure/acs-engine/raw/master/docs/images/kubernetes.png)
