@@ -13,6 +13,7 @@ a.	Kubernetes Installation on Azure
 b.	Hello-world on Kubernetes
 
 c.	Experimenting with Kubernetes Features
+
     i.	Placement
 
     ii.	Reconciliation
@@ -34,4 +35,5 @@ g.	Create and deploy into Kubernetes Namspaces
 •	To set up a Kubernetes deployment in your subscription for future customer-demo purposes. 
 
 •	To write and run a basic hello-world program on Docker
+
 
