@@ -37,4 +37,4 @@ g.	Create and deploy into Kubernetes Namspaces
 •	To write and run a basic hello-world program on Docker
 
 
-![ScreenShot](https://github.com/srakesh28/acs-kubernetes/blob/master/kubernetes.png)
+![ScreenShot](https://github.com/Azure/acs-engine/raw/master/docs/images/kubernetes.png)
